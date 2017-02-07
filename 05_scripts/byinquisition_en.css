@@ -1,0 +1,20 @@
+a     { color: #00009c; font-size: 16px; font-family: helvitica; text-decoration: none }
+
+a:link   { color: #fc6500; font-size: 16px; font-family: verdana, Helvetica, Arial, "ms sans serif"; text-decoration: none }
+
+a:visited  { color: #C7E6FC; font-size: 16px; font-family: verdana, Helvetica, Arial, "MS Sans Serif"; text-decoration: none }
+
+a:hover   { color: maroon; font-size: 16px; font-family: verdana, Helvetica, Arial, "MS Sans Serif"; text-decoration: none }
+
+a:active  { color: #0ab60a; font-size: 16px; font-family: verdana, Helvetica, Arial, "MS Sans Serif"; text-decoration: none }
+
+h1   { color: #ff9a31; font-size: 22px; font-family: verdana, Helvetica, Arial, "MS Sans Serif" }
+h2   { color: #66c; font-size: 20px; font-family: verdana, Helvetica, Arial, "MS Sans Serif" }
+h3   { color: #9ccf9c; font-size: 18px; font-family: verdana, Helvetica, Arial, "MS Sans Serif" }
+h4   { color: #ff3031; font-size: 18px; font-family: verdana, Helvetica, Arial, "MS Sans Serif" }
+h5    { color: #2c2c95; font-size: 16px; font-family: "MS Sans Serif", LilyUPC, "Angsana New", AngsanaUPC, Thonburi, Krungthep }
+h6    { color: #c00; font-size: 16px; font-family: "MS Sans Serif", LilyUPC, AngsanaUPC, "Angsana New", Thonburi, Krungthep }
+td        { color: black; font-size: 15px; font-family: verdana, Helvetica, Arial, "ms sans serif" }
+.activetext   { color: #00c; font-size: 12px; font-family: verdana, Helvetica, Arial, "MS San Serif" }
+.copyright    { color: gray; font-size: 8pt; font-family: Verdana, Helvetica, Arial, Tahoma, "MS Sans Serif" }
+.menuHead  { color: #404040; font-size: 24px; font-family: verdana, Helvetica, Arial, "MS Sans Serif" }
